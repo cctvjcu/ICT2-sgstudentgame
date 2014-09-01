@@ -1,0 +1,134 @@
+.input_section{
+border:1px solid #ddd;
+border-bottom:0;
+background:#f9f9f9;
+border-radius: 3px 3px 3px 3px;
+width:100%;
+}
+.option_input label{
+font-size:12px;
+font-weight:700;
+width:15%;
+display:block;
+float:left;
+}
+.option_info_box
+{
+    background-color: #F1F1F1;
+    padding-left:55px;
+    padding-right:20px;
+    border:1px solid #ddd;
+    width:auto;
+    height:auto;
+    display:inline-block;
+    background-image:url('images/admininfo.png');
+    background-position: 15px 15px;
+    background-repeat:no-repeat;
+}
+.option_input {
+padding:20px;
+border-bottom:1px solid #ddd;
+border-top:1px solid #fff;
+}
+.option_input .button{
+width:20%;
+float:right;
+}
+.option_input .insert-media {
+    width:auto;
+}
+.option_input small{
+display:block;
+float:right;
+width:20%;
+color:#999;
+}
+.option_input input[type="text"], .option_input select{
+width:60%;
+font-size:12px;
+padding:4px;
+color:#333;
+line-height:1em;
+background:#f3f3f3;
+}
+.option_input input:focus, .option_input textarea:focus{
+background:#fff;
+}
+.option_input textarea{
+width:60%;
+height:175px;
+font-size:12px;
+padding:4px;
+color:#333;
+line-height:1.5em;
+background:#f3f3f3;
+}
+.input_title h3 {
+color: #464646;
+cursor: pointer;
+float: left;
+font-size: 14px;
+margin: 0;
+padding: 5px 0 0;
+text-shadow: 0 1px 0 #FFFFFF;
+ 
+}
+.input_title{
+cursor:pointer;
+border-bottom:1px solid #ddd;
+margin: 0;
+padding: 7px 10px;
+background-color: #F1F1F1;
+background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+font-size: 15px;
+font-weight: normal;
+line-height: 1;
+border-bottom-color: #DFDFDF;
+box-shadow: 0 1px 0 #FFFFFF;
+}
+.input_title:hover{
+background:#e2e2e2;	
+}
+.input_title h3 img {
+position: relative;
+top: -2px;
+vertical-align: middle;
+margin-right: 5px;
+}
+ 
+.input_title span.submit{
+display: block;
+float: right;
+margin: 0;
+padding: 0;
+}
+.clearfix{
+clear:both;
+}
+ 
+form > p.submit {
+padding: 0;
+float:right;
+}
+.doclinks{
+margin-top:20px !important;
+margin-bottom:20px !important;
+}
+.options_wrap > ul li {
+display: inline;
+margin-right: 5px;
+}
+.footer-credit{
+margin-top: 60px;
+}
+#panelwrapper
+{
+	padding-left: 20px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.all_options
+{
+	display: none;
+}

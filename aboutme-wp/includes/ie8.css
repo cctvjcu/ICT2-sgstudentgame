@@ -1,0 +1,8 @@
+﻿.ff-container{margin-top:-30px !important;}
+.ff-items a span {display:none;}
+.ff-items a:hover span {display:block;background-color:#b72228;width:125px;height:80px;}
+.ie8 {display:none;}
+.label{border:none !important; padding-left:15px !important;}
+.label:after, .label:before {
+	border:none !important;
+}

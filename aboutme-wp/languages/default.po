@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Egemen Erdoğan <iletisim@8-erdizayn.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: aboutme-wp/includes/functions.php:798
+msgid " Theme Options"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/comments.php:43
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/category.php:28
+msgid "%s"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/comments.php:28
+msgid "&#8249; Older comments"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:46
+#: aboutme-wp/category.php:73
+#: aboutme-wp/blog.php:53
+#: aboutme-wp/archive.php:49
+msgid "&#8249; Older posts"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:54
+#: aboutme-wp/blog.php:61
+#: aboutme-wp/404.php:19
+#: aboutme-wp/archive.php:57
+msgid "&larr; Home"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/404.php:18
+msgid "404 &#8212; Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/functions.php:911
+msgid "AboutMe"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Add New Portfolio item"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:244
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:150
+msgid "Age"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:151
+msgid "Birth Place"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/archive.php:30
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/archive.php:24
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:39
+#: aboutme-wp/category.php:67
+#: aboutme-wp/blog.php:47
+#: aboutme-wp/archive.php:43
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:154
+#: aboutme-wp/index.php:243
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:156
+msgid "Freelance"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:54
+#: aboutme-wp/404.php:19
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/archive.php:26
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:149
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "New Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/comments.php:29
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:47
+#: aboutme-wp/category.php:74
+#: aboutme-wp/blog.php:54
+#: aboutme-wp/archive.php:50
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "No portfolio item found"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "No slide found"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "No slide found in Trash"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:35
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Parent Portfolio items:"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "Parent slides:"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:31
+msgid "Permanent Link to %s"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:242
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/comments.php:37
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Portfolios"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/searchbox.php:6
+#: aboutme-wp/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "Search Portfolios Items"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "Search Slides"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/search.php:25
+msgid "Search results for: %s"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "Slides"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/functions.php:911
+msgid "Sub Menu"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "View Portfolio Item"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "View Slide"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/archive.php:28
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:54
+#: aboutme-wp/blog.php:61
+#: aboutme-wp/404.php:19
+#: aboutme-wp/archive.php:57
+msgid "You can return"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/index.php:284
+msgid "You can use arrow keys to navigate"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:53
+#: aboutme-wp/blog.php:60
+#: aboutme-wp/archive.php:56
+msgid "Your search for"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:53
+#: aboutme-wp/blog.php:60
+#: aboutme-wp/archive.php:56
+msgid "did not match any entries"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/search.php:54
+#: aboutme-wp/blog.php:61
+#: aboutme-wp/404.php:19
+#: aboutme-wp/archive.php:57
+msgid "or search for the page you were looking for;"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/portfolio_post_type.php:1
+msgid "portfolio"
+msgstr ""
+
+#. Text in echo
+#: aboutme-wp/searchbox.php:5
+#: aboutme-wp/searchform.php:2
+msgid "search here &hellip;"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "slide"
+msgstr ""
+
+#. Text in function
+#: aboutme-wp/includes/slider_post_type.php:1
+msgid "slides"
+msgstr ""
+
